@@ -54,13 +54,10 @@ Deployed Page: https://nickless192.github.io/HoriseonLandingPage/
 - replaced .header div for header nav
 - replaced .header div ul for header nav ul
 - replaced .header div ul li for header nav ul li
-- erged .benefit-lead, .benefit-brand and .benefit-cost into one class, .benefit
+- merged .benefit-lead, .benefit-brand and .benefit-cost into one class, .benefit
 - merged .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 into class .benefit h3
 - merged .benefit-lead img, .benefit-brand img and .benefit-cost img into clas .benefit-lead img
 - merged classes search-engine-optimization, online-reputation-management, social-media-marketing into class content-info
 - merged classes search-engine-optimization img, online-reputation-management img, social-media-marketing img into class content-info img
 - merged classes search-engine-optimization h2, online-reputation-management h2, social-media-marketing h2 into class content-info h2
 - for class .benefits, changed color #2589bd for #0072bb to enhance legibility (increase contrast)
-
-## Credits
-
