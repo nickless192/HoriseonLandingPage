@@ -22,3 +22,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Screenshot of Deployed Site
+![Horiseon Landing Page](../challenge-1/assets/images/HoriseonHeroScreenshot.png)
+
+## Links
+
+GitHub link: https://github.com/nickless192/HoriseonLandingPage
+
+Deployed Page: https://nickless192.github.io/HoriseonLandingPage/
